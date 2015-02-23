@@ -22,7 +22,7 @@ def play_round(player1, player2, history1, history2, score1, score2):
     Calls the get_action() function which will get the characters
     'c' or 'b' for collude or betray for each player.
     The history is provided in a string, e.g. 'ccb' indicates the player
-    colluded in the first two rounds and betrayed in the most recent round.
+    colluded in the first tworounds and betrayed in the most recent round.
     Returns a 4-tuple with updated histories and scores
     (history1, history2, score1, score2)
     '''
