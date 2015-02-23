@@ -13,10 +13,7 @@ Players should each code their strategies in their assigned section of code.
 
 Aggregated results are stored in tournament.txt
 
-Unpublished work (c)2013 Project Lead The Way
-CSE Project 1.3.5 Collaborating on a Project
-Draft, Do Not Distribute
-Version 8/23/2013 
+
 '''
 
 import random
